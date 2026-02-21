@@ -1,0 +1,10 @@
+STM32F407VET6:
+串口3，PB10, PB11
+波特率115200
+开中断
+
+MAXICAM:
+用串口0
+
+
+基于HAL库CubeMX
